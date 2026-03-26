@@ -1,24 +1,24 @@
 # 💫 About Me:
-🎓 I am Punyashree, an MCA graduate seeking job opportunities.<br>🤝 Open to collaborate on exciting projects.<br>💻 Ask me about Java and related technologies.<br>📫 shoot me on punyashree0102@gmail.com.
+🎓 I am Punyashree, an MCA graduate seeking job opportunities.<br>🤝 Open to collaborate on exciting projects.<br>💻 Ask me about Java and related technologies.<br>📫 shoot me on punyashree0102@gmail.com.<br>
 🛠️ Skills & Technologies<br>
-Backend Development
-Java (Core & Advanced)
-Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)
-Microservices Architecture (REST APIs, Service Communication)
-Hibernate & JPA
-API Security (OAuth2, JWT, Role-Based Access Control)
-Databases
-MySQL
-PostgreSQL
-DevOps & Cloud
-Containerization & Orchestration: Docker, Kubernetes (Learning)
-Message Queues & Caching: Kafka, Redis (Learning)
-CI/CD & Automation: GitHub Actions (Exploring)
-Cloud Platforms: AWS Basics
-Tools & Other Technologies
-Git & GitHub
-Postman (API Testing)
-HTML, CSS
+Backend Development<br>
+Java (Core & Advanced)<br>
+Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)<br>
+Microservices Architecture (REST APIs, Service Communication)<br>
+Hibernate & JPA<br>
+API Security (OAuth2, JWT, Role-Based Access Control)<br>
+Databases<br>
+MySQL<br>
+PostgreSQL<br>
+DevOps & Cloud<br>
+Containerization & Orchestration: Docker, Kubernetes (Learning)<br>
+Message Queues & Caching: Kafka, Redis (Learning)<br>
+CI/CD & Automation: GitHub Actions (Exploring)<br>
+Cloud Platforms: AWS, Azure<br>
+Tools & Other Technologies<br>
+Git & GitHub<br>
+Postman (API Testing)<br>
+HTML, CSS<br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/punyashreehs)
