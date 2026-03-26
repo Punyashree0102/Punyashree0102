@@ -1,6 +1,6 @@
 # 💫 About Me:
 🎓 I am Punyashree, an MCA graduate seeking job opportunities.<br>🤝 Open to collaborate on exciting projects.<br>💻 Ask me about Java and related technologies.<br>📫 shoot me on punyashree0102@gmail.com.
-🛠️ Skills & Technologies
+🛠️ Skills & Technologies<br>
 Backend Development
 Java (Core & Advanced)
 Spring Framework (Spring Boot, Spring MVC, Spring Data JPA, Spring Security)
